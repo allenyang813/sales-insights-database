@@ -1,4 +1,4 @@
-# Furniture Store SQL Database Project
+# Sales Insights Project
 
 ## Overview
 This project involved designing a relational database for a furniture business and writing SQL queries to extract meaningful business information. The assignment included building multiple related tables, enforcing key constraints, inserting sample data, and developing analytical queries.
