@@ -1,4 +1,4 @@
-# Sales Insights Project
+# Sales Performance Insights Project
 
 ## Overview
 This project involved designing a relational database for a furniture retail system and writing SQL queries to extract meaningful business information. The assignment included building multiple related tables, enforcing key constraints, inserting sample data, and developing analytical queries.
